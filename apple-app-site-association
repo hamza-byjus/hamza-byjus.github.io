@@ -1,0 +1,13 @@
+{
+applinks: {
+apps: [ ],
+details: [
+{
+appID: "X9J2SG7MB3.com.deeplink",
+paths: [
+"/parent/*"
+]
+}
+]
+}
+}
